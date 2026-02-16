@@ -1,0 +1,13 @@
+{
+  "name": "shell-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for safe shell command execution",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["mcp", "shell", "command", "execute"],
+  "author": "Cipher",
+  "license": "ISC"
+}
